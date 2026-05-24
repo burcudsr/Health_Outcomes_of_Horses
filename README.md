@@ -1,9 +1,9 @@
-# 🐎 Horse Health Condition Predictor
+# 🐎 Horse Health Condition Prediction
 
 This project utilizes deep learning to predict the health outcomes of horses based on clinical data. The model architecture processes both numerical and categorical inputs, employing embedding layers for robust feature representation, and was developed to assist in veterinary diagnostic decision-making.
 
 ### 🚀 Live Demo
-You can explore the prediction model here: https://huggingface.co/spaces/bdaser/Health_Horse
+You can explore the prediction model here: **[Horse Health Condition Predictor](https://huggingface.co/spaces/bdaser/Health_Horse)**
 
 ### 📊 Dataset Overview
 The dataset contains 1,235 training entries and 824 test entries, featuring 29 clinical variables such as `rectal_temp`, `pulse`, `respiratory_rate`, and various surgical indicators.
