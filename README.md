@@ -28,5 +28,3 @@ The classification performance on the validation set is summarized below:
 | **Precision** | 0.77 | 0.59 | 0.65 |
 | **Recall** | 0.59 | 0.80 | 0.62 |
 | **F1-Score** | 0.67 | 0.68 | 0.63 |
-
-The model achieves an overall accuracy of **0.67** on the validation data.
