@@ -23,7 +23,7 @@ The model is designed with a hybrid architecture:
 ### 🏆 Model Performance
 The classification performance on the validation set is summarized below:
 
-| Metric | Class 0 | Class 1 | Class 2 |
+| Metric | Lived | Died | Euthanized |
 | :--- | :--- | :--- | :--- |
 | **Precision** | 0.77 | 0.59 | 0.65 |
 | **Recall** | 0.59 | 0.80 | 0.62 |
