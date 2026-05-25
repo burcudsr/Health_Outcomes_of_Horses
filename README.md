@@ -1,6 +1,6 @@
 # 🐎 Horse Health Condition Prediction
 
-This project utilizes deep learning to predict the health outcomes of horses based on clinical data. The model architecture processes both numerical and categorical inputs, employing embedding layers for robust feature representation, and was developed to assist in veterinary diagnostic decision-making.
+This project utilizes deep learning to predict the health outcomes of horses based on clinical data. The model architecture processes both numerical and categorical inputs, employing embedding layers for robust feature representation, and was developed to assist in veterinary diagnostic decision-making. The study was developed as part of the **Kaggle Playground Series - Season 3, Episode 22.**
 
 ### 🚀 Live Demo
 Explore the prediction model here: **[Horse Health Condition Predictor](https://huggingface.co/spaces/bdaser/Health_Horse)**
